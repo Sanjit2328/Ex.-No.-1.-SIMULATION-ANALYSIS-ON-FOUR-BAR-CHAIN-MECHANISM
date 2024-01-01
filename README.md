@@ -53,6 +53,8 @@
 
 
 ## Output:
+![Screenshot 2024-01-01 205510](https://github.com/Sanjit2328/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/139331694/ae578e60-9d09-4cca-9ae3-026d63ad4618)
+
 
 
 ### Name:
